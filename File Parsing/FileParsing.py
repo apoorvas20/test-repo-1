@@ -15,7 +15,7 @@ class Spreadsheet:
 
 sheet = Spreadsheet()
 sheet.loadAndParse('a.txt')
-# res = sheet.filter(['color', '=', 'green'])
+res = sheet.filter(['color', '=', 'green'])
 print(f"Final filtered answer: {res}")
 
 
