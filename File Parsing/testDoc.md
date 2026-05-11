@@ -74,3 +74,6 @@ No more re-explaining context every time you ask a question.
 Every attribute is visible, editable, and reversible. Your profile is yours.
 
 Agent Personalization: an agent that actually knows you.
+
+### Updates
+Testing updates via github webhook
