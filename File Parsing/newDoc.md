@@ -25,3 +25,5 @@ This document tracks testing of GitHub sync functionality via webhooks. Changes 
 - Conflict detection: tested
 
 - Push to GitHub: tested
+
+Testing badge updtees again 
