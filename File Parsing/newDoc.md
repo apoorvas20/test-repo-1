@@ -10,7 +10,7 @@ Lets try to push to github!!
 
 Editing again
 
-Falconer side changes- editing again for testing conflicts. Trying to test conflicts again 2.0. Test 3.0. Testing 4.0 changes. Testing conflicts push- 5.0. Testing 6.0
+Falconer side changes- editing again for testing conflicts. Trying to test conflicts again 2.0. Test 3.0. Testing 4.0 changes. Testing conflicts push- 5.0. Testing 6.0. Testing badge sync on push to github
 
 ## Summary
 
