@@ -26,4 +26,4 @@ This document tracks testing of GitHub sync functionality via webhooks. Changes 
 
 - Push to GitHub: tested
 
-Testing badge updtees again 
+Testing badge updates again
