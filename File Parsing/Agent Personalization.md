@@ -52,6 +52,8 @@ Your profile is editable end-to-end. Add a role and team in one click. Add a fre
 
 Agent Personalization is available now under your personal settings. Visit Settings → Personalizations → Agent Personalization to review your attributes.
 
+Editing this file to show conflicts in Falconer.
+
 ## **LinkedIn post**
 
 Most AI agents only know what you’ve told them directly. So you spend half your prompts re-explaining your team, your stack, the project codenames nobody outside your company would understand.
