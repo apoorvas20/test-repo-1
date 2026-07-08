@@ -11,8 +11,8 @@ New edits here
 
 ## Section A
 
-New edits here 
+New edits here
 
-## Section c 
+## Section c
 
 Create new edits here as user 2. creating a new review request
