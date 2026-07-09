@@ -2,17 +2,12 @@
 
 New readme file created for demo.
 
-Update on github so changes are reflected in Falconer.
+### Two-way sync
 
-Create new edits in Falconer w the option to merge.
+Two-way sync keeps a document in step across Falconer and GitHub by moving changes in both directions. Edit in either place and the other side reflects the update:
 
-Section B  
-New edits here
+- GitHub to Falconer: push a change on GitHub and it shows up in Falconer.
 
-## Section A
+- Falconer to GitHub: make edits in Falconer and merge them back to GitHub.
 
-Im gonna create conflicts now
-
-## Section c
-
-Create new edits here as user 2. creating a new review request. Creating more changes here. Creating another Review Request w conflicts. Lets create another review request
+Suggest new chnages here
