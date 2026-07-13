@@ -14,4 +14,4 @@ Update on github so changes are reflected in Falconer.
 
 Create new edits in Falconer w the option to merge.
 
-In the What happens if i create new edits. Let me try and create new ediits. New review request.
+In the What happens if i create new edits. Let me try and create new ediits. New review request. Creating conflicts here too
