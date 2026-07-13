@@ -17,12 +17,14 @@ A folder opts in by becoming a `REPO_SYNCED` folder, bound to a repository, bran
 Syncs fire from three sources:
 
 - **Webhooks:** a push to the tracked branch syncs the changed files.
+  
+- Editing on github too
 
 - **Cron:** a scheduled job re-syncs tracked repos to catch anything missed.
 
 - **Manual:** kick off a sync from the folder sync dialog and watch it complete.
 
-Back-to-back triggers for the same folder collapse into one in-flight run, so a burst of pushes (or a webhook overlapping a cron tick) never fans out into concurrent syncs.
+Back-to-back triggers for the same folder collapse into one in-flight run, so a burst of pushes (or a webhook overlapping a cron tick) never fans out into concurrent syncs. Editing same on github
 
 ## Writing back to GitHub
 
