@@ -1,4 +1,4 @@
-### ReadME
+### ReadME 
 
 New readme file created for demo.
 
@@ -10,4 +10,8 @@ Two-way sync keeps a document in step across Falconer and GitHub by moving chang
 
 - Falconer to GitHub: make edits in Falconer and merge them back to GitHub.
 
-Suggest new chnages here
+Update on github so changes are reflected in Falconer.
+
+Create new edits in Falconer w the option to merge.
+
+In the What happens if i create new edits. Let me try and create new ediits. New review request.
