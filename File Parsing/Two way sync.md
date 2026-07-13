@@ -29,8 +29,6 @@ Back-to-back triggers for the same folder collapse into one in-flight run, so a 
 When you push Falconer edits to GitHub, pick a merge strategy:
 
 - **Direct commit:** commit straight to the tracked branch.
-  
-- Editing same file on github too 
 
 - **Create pull request:** open a PR with the changes for review.
 
