@@ -1,4 +1,4 @@
-### ReadME 
+### ReadME
 
 New readme file created for demo.
 
@@ -18,5 +18,4 @@ In the What happens if i create new edits. Let me try and create new ediits. New
 
 Lets add an image here
 
-<img width="751" height="518" alt="Screenshot 2026-07-08 at 11 45 31 AM" src="https://github.com/user-attachments/assets/cb0b8bf5-6581-4694-b32c-10074373d3cb" />
-
+![Screenshot 2026-07-08 at 11 45 31 AM](https://github.com/user-attachments/assets/cb0b8bf5-6581-4694-b32c-10074373d3cb)
