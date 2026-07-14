@@ -11,7 +11,6 @@ Agent Personalization tailors every response the agent gives you. Instead of tre
 Attributes come from two sources:
 
 - **Attributes you add:** facts you write directly in your profile: your role, your team, and personal preferences like “I prefer bullet points over tables.”
-
 - **Auto-detected attributes**: facts Falconer extracts from your Slack and in-app conversations as you use the product. Each one is traced back to its source so you can verify it.
 
 Every attribute is reviewable from a single page. You can filter by “added by you” vs. “auto-detected,” search across attributes, edit any one inline, or delete what you don’t want Falconer to use.
@@ -37,23 +36,16 @@ Your profile is editable end-to-end. Add a role and team in one click. Add a fre
 **Why this matters**
 
 - Agent answers tuned to your role and ownership area, not a generic default
-
 - Less repetitive setup: you don’t re-explain your team or scope on every query
-
 - Full transparency: every attribute is visible, attributed, and reversible
-
 - Profile improves passively as you use the product, with no extra effort
 
 **Best Use cases**
 
 - Engineers and PMs who want answers scoped to the services they own, not the whole codebase
-
 - Non-technical stakeholders who need plain-language summaries, not implementation details
-
 - Writers and PMs who prefer a specific style (no em dashes, shorter sentences, bullet points over prose)
-
 - Cross-functional teams where the same question means something different depending on the role asking it
-
 - Power users who want the agent to skip onboarding-level context and get straight to the point
 
 **Try it today**
@@ -87,3 +79,7 @@ Adding more content here. Gotta ingest this file again?
 ### Updates
 
 Suggestions from user 1 here. New suggestions here. Lets edit again. Lets create new changes again
+
+Add an image here too 
+
+![](../.falconer/assets/2a7d838e7375300bfb68c07284fda4f0710598e721f0f0f62d60df8989eb72ae/Screenshot%202026-07-13%20at%209.55.58_PM.png)
