@@ -11,7 +11,7 @@ Two-way sync keeps a document in step across Falconer and GitHub by moving chang
 - Falconer to GitHub: make edits in Falconer and merge them back to GitHub.
 - Testing the conflicts on github again
 - Cool let me create conflicts again
-- 
+- editing this too
 
 Update on github so changes are reflected in Falconer.
 
