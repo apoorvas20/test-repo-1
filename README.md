@@ -22,6 +22,4 @@ Create new edits in Falconer w the option to merge.
 
 In the What happens if i create new edits. Let me try and create new ediits. New review request. Creating conflicts here too, again.
 
-Lets add an image here. also make new edits here. Let me also try to push images from this file. Okay ill listen to webhooks again and see if images come up in conflicts.
-
-![](img:67016e7646428154827cd2e3364ea81594abe5d70d169719f234e9fbe377b0bd)
+Lets add an image here. also make new edits here. Let me also try to push images from this file. Okay ill listen to webhooks again and see if images come up in conflicts. Creating conflicts here too
