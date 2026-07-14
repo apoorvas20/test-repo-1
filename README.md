@@ -24,6 +24,4 @@ In the What happens if i create new edits. Let me try and create new ediits. New
 
 Lets add an image here. also make new edits here. Let me also try to push images from this file.
 
-![Screenshot 2026-07-08 at 11 45 31 AM](img:f71865a68ba26dbdbd43914b131f038a9ef24657dd930db235150f7312c205ab)
-
-![Screenshot 2026-07-13 at 1 18 22 PM 1](img:77982e1daae4ad5625c6c8153b3040a223012e9bfa6eea119f4793140d621353)
+![](.falconer/assets/67016e7646428154827cd2e3364ea81594abe5d70d169719f234e9fbe377b0bd/Screenshot%202026-07-13%20at%202.16.09_PM.png)
