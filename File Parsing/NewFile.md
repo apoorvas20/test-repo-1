@@ -10,3 +10,7 @@ Lets add more images here
 ![](../.falconer/assets/e23e13bbe49e24e7f3d1cf1e6dc583454a29e39d8c43304f2a1445cbd399e7d2/Screenshot%202026-07-02%20at%204.31.07_PM.png)
 
 ![](../.falconer/assets/2650cdc5c734179ec4eaa1df23074599fb81e18c7eebb49f06bac089b530159f/Screenshot%202026-07-08%20at%2011.44.41_AM.png)
+
+<img src="../.falconer/assets/2650cdc5c734179ec4eaa1df23074599fb81e18c7eebb49f06bac089b530159f/Screenshot%202026-07-08%20at%2011.44.41_AM.png" class="max-w-full h-auto cursor-pointer m-0 rounded-lg shadow-md">
+
+Adding same image again to verify it only appears once
