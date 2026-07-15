@@ -81,7 +81,3 @@ Adding more content here. Gotta ingest this file again?
 Suggestions from user 1 here. New suggestions here. Lets edit again. Lets create new changes again
 
 Add an image here too
-
-![](../.falconer/assets/2a7d838e7375300bfb68c07284fda4f0710598e721f0f0f62d60df8989eb72ae/Screenshot%202026-07-13%20at%209.55.58_PM.png)
-
-![](../.falconer/assets/77982e1daae4ad5625c6c8153b3040a223012e9bfa6eea119f4793140d621353/Screenshot%202026-07-13%20at%201.18.22_PM%201.png)
