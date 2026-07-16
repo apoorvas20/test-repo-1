@@ -28,6 +28,6 @@ Adding an image to this doc. testing if images breka if the doc isnt open. why d
 
 Bulk
 
-Addd animage
+Addd animage. im editing again
 
 ![](.falconer/assets/7c46ae78402784aaa375d5d79d494b84ad606acfb00568cb16fc4741b843f693/Screenshot%202026-07-02%20at%203.12.48_PM.png)
