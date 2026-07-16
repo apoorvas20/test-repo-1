@@ -81,3 +81,5 @@ Adding more content here. Gotta ingest this file again?
 Suggestions from user 1 here. New suggestions here. Lets edit again. Lets create new changes again
 
 Add an image here too. Let me try to create edits for a new doc
+
+<img width="719" height="164" alt="Screenshot 2026-07-15 at 5 46 15 PM" src="https://github.com/user-attachments/assets/0a138516-b45c-430a-bfdf-d3efa062349c" />
