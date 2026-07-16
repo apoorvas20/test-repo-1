@@ -5,7 +5,7 @@ Okay ima try psuhing again. Trying to push again w the fix. Im gonna try to push
 
 Lets add more images here. Mkaing chnagesto a doc w images to look for phantom conflicts. Lets also create conflicts in thjis doc. let me also create conflicts in the text. last test doc lets try this again. trying gaain
 
-![Screenshot 2026-07-02 at 11 04 20 AM](https://github.com/user-attachments/assets/bb47e036-eed3-49c5-be19-c776122bf964)
+![Screenshot 2026-07-02 at 11 04 20 AM](../.falconer/assets/4da86b2b8a2cd6a953546dc09296452ddaaacd7efa8c7ca6e0f4f2611e76b8c2/pasted-image-1784168256786-0.png)
 
 ![](../.falconer/assets/e23e13bbe49e24e7f3d1cf1e6dc583454a29e39d8c43304f2a1445cbd399e7d2/Screenshot%202026-07-02%20at%204.31.07_PM.png)
 
