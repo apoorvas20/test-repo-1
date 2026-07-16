@@ -50,6 +50,7 @@ Falconer pairs intelligent document creation with fast search and discovery. Wri
 - Use @ references to build a connected knowledge network
 - Use `/` for quick formatting commands
 - Use arrow keys in the move modal to reorganize fast
+- Let me edit this doc so i can test the rounnd trip images survival test
 
 ### TL;DR
 
