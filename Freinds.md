@@ -31,6 +31,7 @@ Six friends in their 20s and 30s live near each other in New York City. They han
 - Finale drew over 52 million U.S. viewers in 2004.
 - Found a huge new audience through streaming decades later.
 - A reunion special, *Friends: The Reunion*, aired in 2021.
+- Checking if editing lists land as conflicts again
 
 ## TLDR
 
