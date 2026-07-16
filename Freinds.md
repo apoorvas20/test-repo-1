@@ -34,6 +34,6 @@ Six friends in their 20s and 30s live near each other in New York City. They han
 
 ## TLDR
 
-*Friends* (NBC, 1994 to 2004) is a 10-season sitcom about six friends in New York. Fueled by strong cast chemistry, sharp writing, and the Central Perk hangout, it became a cultural landmark that still draws fans today.
+*Friends* (NBC, 1994 to 2004) is a 10-season sitcom about six friends in New York. Fueled by strong cast chemistry, sharp writing, and the Central Perk hangout, it became a cultural landmark that still draws fans today. why did itcreaste a conflict now
 
 ![](.falconer/assets/7c60b6822e552456a427cb5f90eb22341ca2c22e214f8b39986bd3fcd84deeb7/IMG_9064.jpg)
