@@ -40,3 +40,5 @@ When you push Falconer edits to GitHub, pick a merge strategy:
 - Keeps a `REPO_SYNCED` folder in sync with a GitHub repo, both directions.
 - GitHub pushes ingest into Falconer; Falconer edits write back via direct commit or PR.
 - Creating conflicts here too again
+- Lets test text only push now 
+- Editing more, again. Trying
