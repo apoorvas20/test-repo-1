@@ -14,3 +14,5 @@ Lets add more images here. Mkaing chnagesto a doc w images to look for phantom c
 ![](../.falconer/assets/2650cdc5c734179ec4eaa1df23074599fb81e18c7eebb49f06bac089b530159f/Screenshot%202026-07-08%20at%2011.44.41_AM.png)
 
 Adding same image again to verify it only appears once
+
+Bulkedits
