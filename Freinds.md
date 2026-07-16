@@ -11,18 +11,18 @@ Six friends in their 20s and 30s live near each other in New York City. They han
 ## The six main characters
 
 - **Rachel Green** (Jennifer Aniston): Starts as a runaway bride, grows from spoiled to independent. On-and-off love story with Ross.
-- **Ross Geller** (David Schwimmer): Paleontologist, Monica's older brother. Divorced three times. "We were on a break."
+- **Ross Geller** (David Schwimmer): Paleontologist, Monica’s older brother. Divorced three times. “We were on a break.”
 - **Monica Geller** (Courteney Cox): Competitive chef and clean freak. Ends up with Chandler.
 - **Chandler Bing** (Matthew Perry): Sarcastic office worker with the best one-liners. Marries Monica.
-- **Joey Tribbiani** (Matt LeBlanc): Struggling actor and loyal friend. "How you doin'?"
-- **Phoebe Buffay** (Lisa Kudrow): Quirky masseuse and musician. Sings "Smelly Cat."
+- **Joey Tribbiani** (Matt LeBlanc): Struggling actor and loyal friend. “How you doin’?”
+- **Phoebe Buffay** (Lisa Kudrow): Quirky masseuse and musician. Sings “Smelly Cat.”
 
 ## Why it worked
 
 - **Ensemble chemistry:** All six leads got equal focus and eventually equal pay.
 - **Central Perk:** The orange couch became an icon.
-- **Catchphrases:** "How you doin'?", "We were on a break", "Smelly Cat".
-- **Theme song:** "I'll Be There for You" by The Rembrandts.
+- **Catchphrases:** “How you doin’?”, “We were on a break”, “Smelly Cat”.
+- **Theme song:** “I’ll Be There for You” by The Rembrandts.
 - **Relatable stakes:** Jobs, dating, and friendship over big drama.
 
 ## Legacy
@@ -43,4 +43,4 @@ Six friends in their 20s and 30s live near each other in New York City. They han
 
 Let me now add a new image to this document. im chceking the round trip imports edits again
 
-<img width="422" height="506" alt="Screenshot 2026-07-14 at 3 40 44 PM" src="https://github.com/user-attachments/assets/04cc0751-62f3-4f9b-b9b5-a0d967c7b100" />
+![Screenshot 2026-07-14 at 3 40 44 PM](.falconer/assets/4a74fe0d91f0c44c64fd562fe612a16fd2668af13e950409d5dcbd02c4b64fd9/pasted-image-1784228270266-0.png)
