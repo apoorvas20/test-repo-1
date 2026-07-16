@@ -24,9 +24,7 @@ In the What happens if i create new edits. Let me try and create new ediits. New
 
 Lets add an image here. also make new edits here. Let me also try to push images from this file. Okay ill listen to webhooks again and see if images come up in conflicts. Lets create text conflicts so we can see accept/ reject resolutions. again
 
-Adding an image to this doc. testing if images breka if the doc isnt open. why did they land as conflicts?
-
-![](.falconer/assets/cdad8344fe278e2b65a8b52817f2ea6636301a770b7a14c08db201d4f619a59a/Falcon-Landing-Cropped.png)
+Adding an image to this doc. testing if images breka if the doc isnt open. why did they land as conflicts? editing again
 
 Bulk
 
