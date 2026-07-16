@@ -82,4 +82,6 @@ Suggestions from user 1 here. New suggestions here. Lets edit again. Lets create
 
 Add an image here too. Let me try to create edits for a new doc. Checking if image appears in assets dir. checking whats breaking images. lets fix this on falconer
 
+Bulkedits 
+
 ![Screenshot 2026-07-15 at 5 46 15 PM](../.falconer/assets/6ae5d06a3c27156131b36536a7bb4f5f45df071debbc12361b82b9ed4b064a04/pasted-image-1784162891228-0.png)
