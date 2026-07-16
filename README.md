@@ -15,6 +15,12 @@ Two-way sync keeps a document in step across Falconer and GitHub by moving chang
 - Cool let me create conflicts again
 
 - editing this too
+- Creating new bullets
+
+- also adding an image
+
+<img width="381" height="119" alt="Screenshot 2026-07-15 at 6 49 15 PM" src="https://github.com/user-attachments/assets/f5209211-31b1-4f89-a6c4-e8009785708f" />
+
 
 Update on Github so changes are reflected in Falconer.
 
