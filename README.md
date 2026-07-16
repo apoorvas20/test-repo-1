@@ -29,3 +29,7 @@ Adding an image to this doc. testing if images breka if the doc isnt open. why d
 ![](.falconer/assets/cdad8344fe278e2b65a8b52817f2ea6636301a770b7a14c08db201d4f619a59a/Falcon-Landing-Cropped.png)
 
 Bulk
+
+Addd animage
+
+![](.falconer/assets/7c46ae78402784aaa375d5d79d494b84ad606acfb00568cb16fc4741b843f693/Screenshot%202026-07-02%20at%203.12.48_PM.png)
