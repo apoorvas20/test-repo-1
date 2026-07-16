@@ -6,7 +6,7 @@ Falconer is an AI-powered knowledge management and documentation platform. It he
 
 ### What it does
 
-Falconer pairs intelligent document creation with fast search and discovery. Write docs, publish them to your org, and find any answer across your team's knowledge.
+Falconer pairs intelligent document creation with fast search and discovery. Write docs, publish them to your org, and find any answer across your team’s knowledge.
 
 ### Key features
 
@@ -33,7 +33,7 @@ Falconer pairs intelligent document creation with fast search and discovery. Wri
 
 **Search and discovery**
 
-- Find information across all your team's documentation
+- Find information across all your team’s documentation
 - Explore related docs and knowledge connections
 - Review and restore previous versions
 - With a connected repo, Falcon can explore real git history: commits, blame, and diffs
@@ -50,10 +50,9 @@ Falconer pairs intelligent document creation with fast search and discovery. Wri
 - Use @ references to build a connected knowledge network
 - Use `/` for quick formatting commands
 - Use arrow keys in the move modal to reorganize fast
-- Let me edit this doc so i can test the rounnd trip images survival test
 
 ### TL;DR
 
-Falconer is an AI documentation platform. Write and generate docs, organize and publish them, and use Falcon plus powerful search to find anything across your team's knowledge.
+Falconer is an AI documentation platform. Write and generate docs, organize and publish them, and use Falcon plus powerful search to find anything across your team’s knowledge.
 
 ![](.falconer/assets/6eb0e4c6b40938aae30add343b01a0003b7cc7489d715544bc2cd034c2ebb124/IMG_0921.jpeg)
