@@ -61,12 +61,14 @@ Lets create another review request and let the reviewer swap an image this time.
 
 ![](.falconer/assets/91df94724c17e7acc58c797289c9e25435a836068702a8c1d97edac573e7f09c/gitbuck_logo.png)
 
-Also paste a new image now 
+Also paste a new image now
 
-Comment icon alignment bug 
+Comment icon alignment bug
 
 ![](.falconer/assets/0b6b513027525b15c35e84ef0c632b5b19d65e1ae2ce434a2cc5c7b5465a2341/Screenshot%202026-07-16%20at%207.03.42_PM.png)
 
-### New Section- B's Edits
+### New Section- B’s Edits
 
-Creating new edits here as per the third bystander persona- B's edits. Creating conflicts
+Creating new edits here as per the third bystander persona- B’s edits. Now B is also adding an image in the doc. Trying to create conflicts while there is a PC pending to be merged. Create new edits 
+
+![](.falconer/assets/372a73bc3142ca2e0f1b83cf06f6f6d5df3199f04903ae2acd4d997183ca1a3c/image.png)
