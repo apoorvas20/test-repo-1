@@ -16,6 +16,7 @@ Six friends in their 20s and 30s live near each other in New York City. They han
 - **Chandler Bing** (Matthew Perry): Sarcastic office worker with the best one-liners. Marries Monica.
 - **Joey Tribbiani** (Matt LeBlanc): Struggling actor and loyal friend. “How you doin’?”
 - **Phoebe Buffay** (Lisa Kudrow): Quirky masseuse and musician. Sings “Smelly Cat.”
+- Need to check the if the banner- n out of m suggestions resolved works correctly.
 
 ## Why it worked
 
@@ -65,3 +66,7 @@ Also paste a new image now
 Comment icon alignment bug 
 
 ![](.falconer/assets/0b6b513027525b15c35e84ef0c632b5b19d65e1ae2ce434a2cc5c7b5465a2341/Screenshot%202026-07-16%20at%207.03.42_PM.png)
+
+### New Section- B's Edits
+
+Creating new edits here as per the third bystander persona- B's edits
