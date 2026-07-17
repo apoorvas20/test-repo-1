@@ -69,4 +69,4 @@ Comment icon alignment bug
 
 ### New Section- B's Edits
 
-Creating new edits here as per the third bystander persona- B's edits
+Creating new edits here as per the third bystander persona- B's edits. Creating conflicts
