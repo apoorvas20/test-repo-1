@@ -44,11 +44,11 @@ Central Perk Cafe is **the iconic, fictional coffee shop from the beloved 90s si
 
 ## Joey Tribbiani
 
-Joey Tribbiani, played by Matt LeBlanc on *Friends*, is a lovable, struggling actor known for his  charming innocence, his deep love of food, and his iconic catchphrase, "How you doin'?". He was also Chandler's roommate in the series. **Beneath his ladies' man persona lies a fiercely loyal friend who always supports his group**.
+Joey Tribbiani, played by Matt LeBlanc on *Friends*, is a lovable, struggling actor known for his dim-witted but charming innocence, his deep love of food, and his iconic catchphrase, "How you doin'?". **Beneath his ladies' man persona lies a fiercely loyal friend who always supports his group**.
 
 ## TLDR
 
-*Friends* (NBC, 1994 to 2004) is a 10-season sitcom about six friends in New York. Fueled by strong cast chemistry, sharp writing, and the Central Perk hangout, it became a cultural landmark that still draws fans today. why did it creates a conflict now.  Also gonna suggest new edits here
+*Friends* (NBC, 1994 to 2004) is a 10-season sitcom about six friends in New York. Fueled by strong cast chemistry, sharp writing, and the Central Perk hangout, it became a cultural landmark that still draws fans today. why did it creates a conflict now. testing the doc again?
 
 ![](.falconer/assets/7c60b6822e552456a427cb5f90eb22341ca2c22e214f8b39986bd3fcd84deeb7/IMG_9064.jpg)
 
@@ -56,4 +56,6 @@ Let me now add a new image to this document. im chceking the round trip imports 
 
 ## Disco Trend Falconer logo
 
-![](.falconer/assets/fe25e18e2529a5ebf81e3af5a6690dc17d3170367933ec510f14846141209216/Falconer-Logo-Disco.png)
+Lets create another review request and let the reviewer swap an image this time
+
+![](.falconer/assets/91df94724c17e7acc58c797289c9e25435a836068702a8c1d97edac573e7f09c/gitbuck_logo.png)
