@@ -35,6 +35,8 @@ Six friends in their 20s and 30s live near each other in New York City. They han
 - let me try editing lists again
 - Creating a new bullet point to watch for conflicts again
 - testing again?
+- Creating multiple changes at once 
+- New changes here too
 
 ## Central Perk 
 
@@ -42,10 +44,12 @@ Central Perk Cafe is **the iconic, fictional coffee shop from the beloved 90s si
 
 ## TLDR
 
-*Friends* (NBC, 1994 to 2004) is a 10-season sitcom about six friends in New York. Fueled by strong cast chemistry, sharp writing, and the Central Perk hangout, it became a cultural landmark that still draws fans today. why did itcreaste a conflict now. testing the doc again?
+*Friends* (NBC, 1994 to 2004) is a 10-season sitcom about six friends in New York. Fueled by strong cast chemistry, sharp writing, and the Central Perk hangout, it became a cultural landmark that still draws fans today. why did it creates a conflict now. testing the doc again?
 
 ![](.falconer/assets/7c60b6822e552456a427cb5f90eb22341ca2c22e214f8b39986bd3fcd84deeb7/IMG_9064.jpg)
 
 Let me now add a new image to this document. im chceking the round trip imports edits again
+
+## Disco Trend Falconer logo
 
 ![](.falconer/assets/fe25e18e2529a5ebf81e3af5a6690dc17d3170367933ec510f14846141209216/Falconer-Logo-Disco.png)
