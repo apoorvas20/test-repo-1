@@ -2,7 +2,7 @@
 
 *Friends* is an American sitcom that ran on NBC from September 22, 1994 to May 6, 2004. Across 10 seasons and 236 episodes, it followed six friends navigating work, love, and life in Manhattan. It became one of the most popular and influential TV shows ever made.
 
-its also my fav show. 
+its also my fav show.
 
 ## The premise
 
@@ -35,16 +35,16 @@ Six friends in their 20s and 30s live near each other in New York City. They han
 - let me try editing lists again
 - Creating a new bullet point to watch for conflicts again
 - testing again?
-- Creating multiple changes at once 
+- Creating multiple changes at once
 - New changes here too
 
-## Central Perk 
+## Central Perk
 
-Central Perk Cafe is **the iconic, fictional coffee shop from the beloved 90s sitcom *Friends***. Thanks to the show's enduring popularity, several real-life cafes and official experiences have been built across the US so fans can step right into the gang's favorite hangout.
+Central Perk Cafe is **the iconic, fictional coffee shop from the beloved 90s sitcom *Friends***. Thanks to the show’s enduring popularity, several real-life cafes and official experiences have been built across the US so fans can step right into the gang’s favorite hangout.
 
 ## Joey Tribbiani
 
-Joey Tribbiani, played by Matt LeBlanc on *Friends*, is a lovable, struggling actor known for his dim-witted but charming innocence, his deep love of food, and his iconic catchphrase, "How you doin'?". **Beneath his ladies' man persona lies a fiercely loyal friend who always supports his group**.
+Joey Tribbiani, played by Matt LeBlanc on *Friends*, is a lovable, struggling actor known for his dim-witted but charming innocence, his deep love of food, and his iconic catchphrase, “How you doin’?”. **Beneath his ladies’ man persona lies a fiercely loyal friend who always supports his group**.
 
 ## TLDR
 
@@ -56,6 +56,12 @@ Let me now add a new image to this document. im chceking the round trip imports 
 
 ## Disco Trend Falconer logo
 
-Lets create another review request and let the reviewer swap an image this time. making edits on github now.
+Lets create another review request and let the reviewer swap an image this time. making edits on GitHub now.
 
 ![](.falconer/assets/91df94724c17e7acc58c797289c9e25435a836068702a8c1d97edac573e7f09c/gitbuck_logo.png)
+
+Also paste a new image now 
+
+Comment icon alignment bug 
+
+![](.falconer/assets/0b6b513027525b15c35e84ef0c632b5b19d65e1ae2ce434a2cc5c7b5465a2341/Screenshot%202026-07-16%20at%207.03.42_PM.png)
