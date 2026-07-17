@@ -56,6 +56,6 @@ Let me now add a new image to this document. im chceking the round trip imports 
 
 ## Disco Trend Falconer logo
 
-Lets create another review request and let the reviewer swap an image this time
+Lets create another review request and let the reviewer swap an image this time. making edits on github now.
 
 ![](.falconer/assets/91df94724c17e7acc58c797289c9e25435a836068702a8c1d97edac573e7f09c/gitbuck_logo.png)
