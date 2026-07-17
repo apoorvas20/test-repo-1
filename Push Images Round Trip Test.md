@@ -53,6 +53,6 @@ Falconer pairs intelligent document creation with fast search and discovery. Wri
 
 ### TL;DR
 
-Falconer is an AI documentation platform. Write and generate docs, organize and publish them, and use Falcon plus powerful search to find anything across your team’s knowledge. Lets edit agaion to test the round trip image survival
+Falconer is an AI documentation platform. Write and generate docs, organize and publish them, and use Falcon plus powerful search to find anything across your team’s knowledge. Lets edit agaion to test the round trip image survival. Creating new edits here. 
 
 ![](.falconer/assets/6eb0e4c6b40938aae30add343b01a0003b7cc7489d715544bc2cd034c2ebb124/IMG_0921.jpeg)
