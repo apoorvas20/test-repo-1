@@ -48,6 +48,4 @@ Central Perk Cafe is **the iconic, fictional coffee shop from the beloved 90s si
 
 Let me now add a new image to this document. im chceking the round trip imports edits again
 
-![Screenshot 2026-07-14 at 3 40 44 PM](.falconer/assets/4a74fe0d91f0c44c64fd562fe612a16fd2668af13e950409d5dcbd02c4b64fd9/pasted-image-1784228270266-0.png)
-
 ![](.falconer/assets/fe25e18e2529a5ebf81e3af5a6690dc17d3170367933ec510f14846141209216/Falconer-Logo-Disco.png)
