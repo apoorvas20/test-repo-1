@@ -36,6 +36,10 @@ Six friends in their 20s and 30s live near each other in New York City. They han
 - Creating a new bullet point to watch for conflicts again
 - testing again?
 
+## Central Perk 
+
+Central Perk Cafe is **the iconic, fictional coffee shop from the beloved 90s sitcom *Friends***. Thanks to the show's enduring popularity, several real-life cafes and official experiences have been built across the US so fans can step right into the gang's favorite hangout.
+
 ## TLDR
 
 *Friends* (NBC, 1994 to 2004) is a 10-season sitcom about six friends in New York. Fueled by strong cast chemistry, sharp writing, and the Central Perk hangout, it became a cultural landmark that still draws fans today. why did itcreaste a conflict now. testing the doc again?
