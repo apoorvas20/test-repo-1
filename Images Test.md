@@ -12,7 +12,7 @@ Referencing a doc that isn't: [test](http://localhost:3000/editor/pmn3yxje2bpf2a
 
 Non doc reference: appy 
 
-Relative links via GitHub: [Friends](../Freinds.md)
+Relative links via GitHub: [Friends](https://github.com/apoorvas20/test-repo-1/blob/main/Freinds.md)
 
 Also including an external link here: [Embedding model](https://github.com/AryamanAgrawal/memory-management/blob/main/docs/EMBEDDING_MODEL_PROPOSAL.md)
 
