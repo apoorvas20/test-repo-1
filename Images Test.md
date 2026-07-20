@@ -12,4 +12,8 @@ Referencing a doc that isn't: [test](http://localhost:3000/editor/pmn3yxje2bpf2a
 
 Non doc reference: appy 
 
+Relative links via GitHub: [Friends](../Freinds.md)
+
+Also including an external link here: [Embedding model](https://github.com/AryamanAgrawal/memory-management/blob/main/docs/EMBEDDING_MODEL_PROPOSAL.md)
+
 ![](.falconer/assets/77982e1daae4ad5625c6c8153b3040a223012e9bfa6eea119f4793140d621353/Screenshot%202026-07-13%20at%201.18.22_PM.png)
