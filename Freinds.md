@@ -45,7 +45,11 @@ Central Perk Cafe is **the iconic, fictional coffee shop from the beloved 90s si
 
 ## Joey Tribbiani
 
-Joey Tribbiani, played by Matt LeBlanc on *Friends*, is a lovable, struggling actor known for his dim-witted but charming innocence, his deep love of food, and his iconic catchphrase, “How you doin’?”. **Beneath his ladies’ man persona lies a fiercely loyal friend who always supports his group**.
+Joey Tribbiani, played by Matt LeBlanc on *Friends*, is a lovable, struggling actor known for his dim-witted but charming innocence, his deep love of food, and his iconic catchphrase, “How you doin’?”. **Beneath his ladies’ man persona lies a f** New suggestions from user 2
+
+## Chandler Bing 
+
+**Chandler Bing**—the iconic character from the 90s sitcom *Friends* played by the late Matthew Perry—highlights his signature sarcastic wit and a career that eerily anticipated modern data science.  New suggestions from user 1
 
 ## TLDR
 
