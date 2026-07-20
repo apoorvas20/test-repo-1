@@ -6,7 +6,7 @@ Edits. Testing references and push gate here [Permissions](Permissions.md)
 
 ![](.falconer/assets/28e9bc64063ca9baa94bfeaa86862eb727f4f70c68a4c59e2a65ec4bb9055286/falconer_three_systems_comparison.png)
 
-Refering a falconer doc that is synced to this repo: [Permissions](Permissions.md) 
+Referencing a falconer doc that is synced to this repo: [Permissions](Permissions.md) 
 
 Referencing a doc that isn't: [test](http://localhost:3000/editor/pmn3yxje2bpf2ajz9yqc35w4__test)
 
