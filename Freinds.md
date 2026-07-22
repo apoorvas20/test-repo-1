@@ -17,6 +17,7 @@ Six friends in their 20s and 30s live near each other in New York City. They han
 - **Joey Tribbiani** (Matt LeBlanc): Struggling actor and loyal friend. “How you doin’?”
 - **Phoebe Buffay** (Lisa Kudrow): Quirky masseuse and musician. Sings “Smelly Cat.”
 - Need to check the if the banner- n out of m suggestions resolved works correctly.
+- Checking image pushes again
 
 ## Why it worked
 
@@ -45,17 +46,17 @@ Central Perk Cafe is **the iconic, fictional coffee shop from the beloved 90s si
 
 ## Joey Tribbiani
 
-Joey Tribbiani, played by Matt LeBlanc on *Friends*, is a lovable, struggling actor known for his dim-witted but charming innocence, his deep love of food, and his iconic catchphrase, “How you doin’?”. **Beneath his ladies’ man persona lies a f** New suggestions from user 2
+Joey Tribbiani, played by Matt LeBlanc on *Friends*, is a lovable, struggling actor known for his dim-witted but charming innocence, his deep love of food, and his iconic catchphrase, “How you doin’?”. **Beneath his ladies’ man persona lies a fiercely loyal friend who always supports his group**.
 
 ## Chandler Bing 
 
-**Chandler Bing**—the iconic character from the 90s sitcom *Friends* played by the late Matthew Perry—highlights his signature sarcastic wit and a career that eerily anticipated modern data science.  New suggestions from user 1
+**Chandler Bing**—the iconic character from the 90s sitcom *Friends* played by the late Matthew Perry—highlights his signature sarcastic wit and a career that eerily anticipated modern data science. Make edits here
 
 ## TLDR
 
 *Friends* (NBC, 1994 to 2004) is a 10-season sitcom about six friends in New York. Fueled by strong cast chemistry, sharp writing, and the Central Perk hangout, it became a cultural landmark that still draws fans today. why did it creates a conflict now. testing the doc again?
 
-![](.falconer/assets/7c60b6822e552456a427cb5f90eb22341ca2c22e214f8b39986bd3fcd84deeb7/IMG_9064.jpg)
+![](.falconer/assets/IMG_9064-7c60b6822e552456a427cb5f90eb22341ca2c22e214f8b39986bd3fcd84deeb7.jpg)
 
 Let me now add a new image to this document. im chceking the round trip imports edits again
 
@@ -63,16 +64,16 @@ Let me now add a new image to this document. im chceking the round trip imports 
 
 Lets create another review request and let the reviewer swap an image this time. making edits on GitHub now.
 
-![](.falconer/assets/91df94724c17e7acc58c797289c9e25435a836068702a8c1d97edac573e7f09c/gitbuck_logo.png)
+![](.falconer/assets/gitbuck_logo-91df94724c17e7acc58c797289c9e25435a836068702a8c1d97edac573e7f09c.png)
 
 Also paste a new image now
 
 Comment icon alignment bug
 
-![](.falconer/assets/0b6b513027525b15c35e84ef0c632b5b19d65e1ae2ce434a2cc5c7b5465a2341/Screenshot%202026-07-16%20at%207.03.42_PM.png)
+![](.falconer/assets/Screenshot%202026-07-16%20at%207.03.42_PM-0b6b513027525b15c35e84ef0c632b5b19d65e1ae2ce434a2cc5c7b5465a2341.png)
 
 ### New Section- B’s Edits
 
 Creating new edits here as per the third bystander persona- B’s edits. Now B is also adding an image in the doc. Trying to create conflicts while there is a PC pending to be merged. Create new edits 
 
-![](.falconer/assets/372a73bc3142ca2e0f1b83cf06f6f6d5df3199f04903ae2acd4d997183ca1a3c/image.png)
+![](.falconer/assets/image-372a73bc3142ca2e0f1b83cf06f6f6d5df3199f04903ae2acd4d997183ca1a3c.png)
