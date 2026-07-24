@@ -1,45 +1,132 @@
 ---
-title: "MDX Test Post"
-description: "A test file to verify MDX parsing and rendering."
-date: "2026-07-24"
-tags: ["test", "mdx"]
-draft: false
+title: "Component Test Page"
+description: "Verifies Mintlify component rendering."
+icon: "flask"
 ---
 
-# MDX Test Post
+Plain paragraph text renders above everything else.
 
-This paragraph confirms basic markdown rendering. Here is **bold**, *italic*,
-`inline code`, and a [link](https://example.com).
+<Note>
+  A note callout. Also available: `Warning`, `Info`, `Tip`, `Check`.
+</Note>
 
-## Lists and Code
+<Warning>
+  Destructive actions cannot be undone.
+</Warning>
 
-- First item
-- Second item
-  - Nested item
+## Accordions
 
-1. Ordered one
-2. Ordered two
+<AccordionGroup>
+  <Accordion title="Single accordion, open by default" defaultOpen={true}>
+    Accordion bodies accept full markdown — **bold**, lists, and code.
 
-```js
-function greet(name) {
-  return `Hello, ${name}`;
-}
+```bash
+    npm install
+```
+  </Accordion>
+
+  <Accordion title="With an icon" icon="key">
+    Icons use Font Awesome names without the `fa-` prefix.
+  </Accordion>
+
+  <Accordion title="Nested content">
+    <Tip>Callouts can nest inside accordions.</Tip>
+  </Accordion>
+</AccordionGroup>
+
+## Cards
+
+<Card title="Standalone card" icon="rocket" href="/quickstart">
+  A card with a link. Clicking the whole card navigates.
+</Card>
+
+<CardGroup cols={2}>
+  <Card title="First" icon="square-1">
+    Two-column grid.
+  </Card>
+  <Card title="Second" icon="square-2">
+    Cards in a group size evenly.
+  </Card>
+  <Card title="Horizontal" icon="arrows-left-right" horizontal>
+    The `horizontal` prop flips the layout.
+  </Card>
+  <Card title="External" icon="link" href="https://example.com">
+    External links get an indicator.
+  </Card>
+</CardGroup>
+
+## Steps
+
+<Steps>
+  <Step title="Install dependencies">
+    Run the installer.
+  </Step>
+  <Step title="Configure" icon="gear">
+    Edit `docs.json`.
+  </Step>
+  <Step title="Deploy" stepNumber={3}>
+    Push to your connected branch.
+  </Step>
+</Steps>
+
+## Tabs
+
+<Tabs>
+  <Tab title="macOS">
+```bash
+    brew install mint
+```
+  </Tab>
+  <Tab title="Windows">
+```powershell
+    winget install mint
+```
+  </Tab>
+</Tabs>
+
+## Code group
+
+<CodeGroup>
+
+```js request.js
+fetch("/api/items").then((r) => r.json());
 ```
 
-## Escaping Check
+```python request.py
+import requests
+requests.get("/api/items").json()
+```
 
-Curly braces need escaping in MDX: \{ this is literal \}.
+</CodeGroup>
 
-A less-than sign in prose: 5 \< 10.
+## API field components
 
-## Table
+<ParamField path="limit" type="integer" default="10">
+  Number of records to return.
+</ParamField>
 
-| Feature | Status |
-| ------- | ------ |
-| Frontmatter | works |
-| Code blocks | works |
-| Tables | works |
+<ParamField body="name" type="string" required>
+  Display name for the resource.
+</ParamField>
 
-> A blockquote, to confirm styling is applied.
+<ResponseField name="id" type="string" required>
+  Unique identifier.
 
-That's the end of the test file.
+  <Expandable title="metadata">
+    <ResponseField name="created_at" type="timestamp">
+      ISO 8601 creation time.
+    </ResponseField>
+  </Expandable>
+</ResponseField>
+
+## Misc
+
+<Frame caption="Framed image with a caption">
+  <img src="/images/placeholder.png" alt="Placeholder" />
+</Frame>
+
+Hover for a <Tooltip tip="Tooltip contents">tooltip</Tooltip>.
+
+<Update label="2026-07-24" description="v1.2.0">
+  Changelog entry block.
+</Update>
