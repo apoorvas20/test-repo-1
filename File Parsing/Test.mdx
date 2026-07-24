@@ -1,0 +1,45 @@
+---
+title: "MDX Test Post"
+description: "A test file to verify MDX parsing and rendering."
+date: "2026-07-24"
+tags: ["test", "mdx"]
+draft: false
+---
+
+# MDX Test Post
+
+This paragraph confirms basic markdown rendering. Here is **bold**, *italic*,
+`inline code`, and a [link](https://example.com).
+
+## Lists and Code
+
+- First item
+- Second item
+  - Nested item
+
+1. Ordered one
+2. Ordered two
+
+```js
+function greet(name) {
+  return `Hello, ${name}`;
+}
+```
+
+## Escaping Check
+
+Curly braces need escaping in MDX: \{ this is literal \}.
+
+A less-than sign in prose: 5 \< 10.
+
+## Table
+
+| Feature | Status |
+| ------- | ------ |
+| Frontmatter | works |
+| Code blocks | works |
+| Tables | works |
+
+> A blockquote, to confirm styling is applied.
+
+That's the end of the test file.
