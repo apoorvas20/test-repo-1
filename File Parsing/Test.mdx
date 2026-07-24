@@ -6,54 +6,76 @@ icon: "flask"
 
 Plain paragraph text renders above everything else.
 
-<Note>
-  A note callout. Also available: `Warning`, `Info`, `Tip`, `Check`.
-</Note>
+<Note>A note callout.</Note>
+<Warning>A warning callout.</Warning>
+<Info>An info callout.</Info>
+<Tip>A tip callout.</Tip>
+<Check>A check callout.</Check>
+<Danger>A danger callout.</Danger>
 
-<Warning>
-  Destructive actions cannot be undone.
-</Warning>
+<Callout icon="key" color="#FFC107">
+  Generic callout with a custom icon and color.
+</Callout>
 
 ## Accordions
 
 <AccordionGroup>
-  <Accordion title="Single accordion, open by default" defaultOpen={true}>
-    Accordion bodies accept full markdown — **bold**, lists, and code.
+  <Accordion title="Open by default" defaultOpen={true}>
+    Accordion bodies accept full markdown and nested components.
 
 ```bash
     npm install
 ```
   </Accordion>
 
-  <Accordion title="With an icon" icon="key">
-    Icons use Font Awesome names without the `fa-` prefix.
+  <Accordion title="With a description" description="Shown under the title">
+    The `description` prop adds detail to the collapsed preview.
   </Accordion>
 
-  <Accordion title="Nested content">
-    <Tip>Callouts can nest inside accordions.</Tip>
+  <Accordion title="With an icon" icon="key">
+    Icon names must match whatever `icons.library` is set to in `docs.json`.
   </Accordion>
 </AccordionGroup>
 
 ## Cards
 
-<Card title="Standalone card" icon="rocket" href="/quickstart">
-  A card with a link. Clicking the whole card navigates.
+<Card title="Standalone card" icon="rocket" href="/quickstart" cta="Get started" arrow={true}>
+  A linked card with custom call-to-action text.
 </Card>
 
-<CardGroup cols={2}>
-  <Card title="First" icon="square-1">
-    Two-column grid.
+<Card title="Horizontal card" icon="arrows-left-right" horizontal>
+  The `horizontal` prop gives a compact layout.
+</Card>
+
+<Card title="Typed card" type="warning">
+  The `type` prop applies callout styling to a card.
+</Card>
+
+<Columns cols={2}>
+  <Card title="First" icon="panel-left-close">
+    Grid layout via Columns.
   </Card>
-  <Card title="Second" icon="square-2">
-    Cards in a group size evenly.
+  <Card title="Second" icon="panel-right-close">
+    Columns accepts 1 to 4.
   </Card>
-  <Card title="Horizontal" icon="arrows-left-right" horizontal>
-    The `horizontal` prop flips the layout.
-  </Card>
-  <Card title="External" icon="link" href="https://example.com">
-    External links get an indicator.
-  </Card>
-</CardGroup>
+</Columns>
+
+<Columns cols={2}>
+  <Column>
+    **Installation**
+
+```bash
+    npm i my-package
+```
+  </Column>
+  <Column>
+    **Usage**
+
+```js
+    import { init } from "my-package";
+```
+  </Column>
+</Columns>
 
 ## Steps
 
@@ -71,13 +93,13 @@ Plain paragraph text renders above everything else.
 
 ## Tabs
 
-<Tabs>
+<Tabs sync={false}>
   <Tab title="macOS">
 ```bash
     brew install mint
 ```
   </Tab>
-  <Tab title="Windows">
+  <Tab title="Windows" icon="terminal">
 ```powershell
     winget install mint
 ```
@@ -99,9 +121,9 @@ requests.get("/api/items").json()
 
 </CodeGroup>
 
-## API field components
+## API fields
 
-<ParamField path="limit" type="integer" default="10">
+<ParamField query="limit" type="integer" default="10">
   Number of records to return.
 </ParamField>
 
@@ -113,14 +135,20 @@ requests.get("/api/items").json()
   Unique identifier.
 
   <Expandable title="metadata">
-    <ResponseField name="created_at" type="timestamp">
+    <ResponseField name="created_at" type="string">
       ISO 8601 creation time.
     </ResponseField>
   </Expandable>
 </ResponseField>
 
-Hover for a <Tooltip tip="Tooltip contents">tooltip</Tooltip>.
+## Misc
 
-<Update label="2026-07-24" description="v1.2.0">
+<Frame caption="Framed image with a caption">
+  <img src="/images/placeholder.png" alt="Placeholder" />
+</Frame>
+
+Hover for a <Tooltip headline="Term" tip="The definition." cta="Learn more" href="/quickstart">tooltip</Tooltip>.
+
+<Update label="2026-07-24" description="v1.2.0" tags={["testing"]}>
   Changelog entry block.
 </Update>
