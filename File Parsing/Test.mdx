@@ -1,154 +1,159 @@
----
-title: "Component Test Page"
-description: "Verifies Mintlify component rendering."
-icon: "flask"
----
-
 Plain paragraph text renders above everything else.
 
-<Note>A note callout.</Note>
-<Warning>A warning callout.</Warning>
-<Info>An info callout.</Info>
-<Tip>A tip callout.</Tip>
-<Check>A check callout.</Check>
-<Danger>A danger callout.</Danger>
+A note callout.  
+A warning callout.  
+An info callout.  
+A tip callout.  
+A check callout.  
+A danger callout.
 
-<Callout icon="key" color="#FFC107">
-  Generic callout with a custom icon and color.
-</Callout>
+ Generic callout with a custom icon and color.
 
 ## Accordions
 
 <AccordionGroup>
-  <Accordion title="Open by default" defaultOpen={true}>
-    Accordion bodies accept full markdown and nested components.
+
+<Accordion title="Open by default">
+
+Accordion bodies accept full markdown and nested components. 
 
 ```bash
     npm install
 ```
-  </Accordion>
 
-  <Accordion title="With a description" description="Shown under the title">
-    The `description` prop adds detail to the collapsed preview.
-  </Accordion>
+</Accordion>
 
-  <Accordion title="With an icon" icon="key">
-    Icon names must match whatever `icons.library` is set to in `docs.json`.
-  </Accordion>
+<Accordion title="With a description">
+
+The \`description\` prop adds detail to the collapsed preview.
+
+</Accordion>
+
+<Accordion title="With an icon">
+
+Icon names must match whatever \`icons.library\` is set to in \`docs.json\`.
+
+</Accordion>
+
 </AccordionGroup>
 
 ## Cards
 
-<Card title="Standalone card" icon="rocket" href="/quickstart" cta="Get started" arrow={true}>
-  A linked card with custom call-to-action text.
+<Card icon="rocket" cta="Get started">
+
+A linked card with custom call-to-action text.
+
 </Card>
 
-<Card title="Horizontal card" icon="arrows-left-right" horizontal>
-  The `horizontal` prop gives a compact layout.
+<Card icon="arrows-left-right" horizontal>
+
+The \`horizontal\` prop gives a compact layout.
+
 </Card>
 
-<Card title="Typed card" type="warning">
-  The `type` prop applies callout styling to a card.
+<Card icon="abacus">
+
+The \`type\` prop applies callout styling to a card.
+
 </Card>
 
 <Columns cols={2}>
-  <Card title="First" icon="panel-left-close">
-    Grid layout via Columns.
-  </Card>
-  <Card title="Second" icon="panel-right-close">
-    Columns accepts 1 to 4.
-  </Card>
+  <Column>
+<Card icon="panel-left-close">
+
+Grid layout via Columns.
+
+</Card>
+
+<Card icon="panel-right-close">
+
+Columns accepts 1 to 4.
+
+</Card>
+
+  </Column>
 </Columns>
 
 <Columns cols={2}>
   <Column>
-    **Installation**
+\*\*Installation\*\* 
 
 ```bash
     npm i my-package
 ```
+
   </Column>
   <Column>
-    **Usage**
+\*\*Usage\*\* 
 
 ```js
     import { init } from "my-package";
 ```
+
   </Column>
 </Columns>
 
 ## Steps
 
 <Steps>
-  <Step title="Install dependencies">
-    Run the installer.
-  </Step>
-  <Step title="Configure" icon="gear">
-    Edit `docs.json`.
-  </Step>
-  <Step title="Deploy" stepNumber={3}>
-    Push to your connected branch.
-  </Step>
+<Step title="Install dependencies">
+
+Run the installer.
+
+</Step>
+
+<Step title="Configure">
+
+Edit \`docs.json\`.
+
+</Step>
+
+<Step title="Deploy">
+
+Push to your connected branch.
+
+</Step>
+
 </Steps>
 
 ## Tabs
 
-<Tabs sync={false}>
-  <Tab title="macOS">
-```bash
-    brew install mint
-```
-  </Tab>
-  <Tab title="Windows" icon="terminal">
-```powershell
-    winget install mint
-```
-  </Tab>
+<Tabs>
+
+<Tab title="macOS">
+
+\`\`\`bash brew install mint \`\`\`
+
+</Tab>
+
+<Tab title="Windows">
+
+\`\`\`powershell winget install mint \`\`\`
+
+</Tab>
+
 </Tabs>
 
 ## Code group
 
-<CodeGroup>
-
-```js request.js
+```js
 fetch("/api/items").then((r) => r.json());
 ```
 
-```python request.py
+```python
 import requests
 requests.get("/api/items").json()
 ```
 
-</CodeGroup>
-
 ## API fields
 
-<ParamField query="limit" type="integer" default="10">
-  Number of records to return.
-</ParamField>
-
-<ParamField body="name" type="string" required>
-  Display name for the resource.
-</ParamField>
-
-<ResponseField name="id" type="string" required>
-  Unique identifier.
-
-  <Expandable title="metadata">
-    <ResponseField name="created_at" type="string">
-      ISO 8601 creation time.
-    </ResponseField>
-  </Expandable>
-</ResponseField>
+ Number of records to return. Display name for the resource. Unique identifier. ISO 8601 creation time.
 
 ## Misc
 
-<Frame caption="Framed image with a caption">
-  <img src="/images/placeholder.png" alt="Placeholder" />
-</Frame>
+![Placeholder](/images/placeholder.png)
 
-Hover for a <Tooltip headline="Term" tip="The definition." cta="Learn more" href="/quickstart">tooltip</Tooltip>.
+Hover for a tooltip.
 
-<Update label="2026-07-24" description="v1.2.0" tags={["testing"]}>
-  Changelog entry block.
-</Update>
+&lt;Update label=“2026-07-24” description=“v1.2.0” tags={\[“testing”\]}&gt;  
+Changelog entry block.
