@@ -22,7 +22,7 @@ Two-way sync keeps a document in step across Falconer and GitHub by moving chang
 
 - Lets see if push msg is auto generated
 
-![Screenshot 2026-07-15 at 6 49 15 PM](.falconer/assets/026044a5cf5a3a08210f4c0f9836a021570044cba604d7bb3538bd0384bb9413/f5209211-31b1-4f89-a6c4-e8009785708f.png)
+![Screenshot 2026-07-15 at 6 49 15 PM](.falconer/assets/f5209211-31b1-4f89-a6c4-e8009785708f-026044a5cf5a3a08210f4c0f9836a021570044cba604d7bb3538bd0384bb9413.png)
 
 Update on Github so changes are reflected in Falconer.
 
@@ -36,6 +36,10 @@ Adding an image to this doc. testing if images breka if the doc isnt open. why d
 
 Bulk
 
-Addd animage. im editing again
+Addd animage. im editing again. New edits here 
 
-![](.falconer/assets/7c46ae78402784aaa375d5d79d494b84ad606acfb00568cb16fc4741b843f693/Screenshot%202026-07-02%20at%203.12.48_PM.png)
+Add more content. New 
+
+<br />
+
+![](.falconer/assets/Screenshot%202026-07-02%20at%203.12.48_PM-7c46ae78402784aaa375d5d79d494b84ad606acfb00568cb16fc4741b843f693.png)
