@@ -6,7 +6,7 @@
 
 Agent Personalization tailors every response the agent gives you. Instead of treating every user the same, Falconer builds a lightweight profile of who you are, captured as a set of **attributes** like your role, your team, the systems you own, the projects you care about, and uses them to tailor answers and skip context you already know. Your attributes are yours: you can see every one, edit it, or remove it.
 
-New edits here. Push to github
+New edits here. Push to github. Making new edits here 
 
 **What is an attribute?**
 
