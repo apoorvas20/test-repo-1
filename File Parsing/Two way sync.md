@@ -2,6 +2,8 @@
 
 Two-way sync keeps a folder of docs in step across Falconer and GitHub. Edit in either place and the other side reflects the change.
 
+Two-way sync eliminates the friction of maintaining documentation in two places. Whether your team prefers editing markdown directly in GitHub or working inside Falconer's editor, every change is automatically propagated to the other side. A folder enrolled in two-way sync is bound to a specific GitHub repository, branch, and base path — forming a persistent, bidirectional link. Incoming GitHub commits are ingested into Falconer in near real-time via webhooks, while edits made in Falconer can be written back to the repo as a direct commit or a pull request, giving teams full control over their review workflow.
+
 ## How it works
 
 Two directions, one linked folder:
@@ -40,5 +42,5 @@ When you push Falconer edits to GitHub, pick a merge strategy:
 - Keeps a `REPO_SYNCED` folder in sync with a GitHub repo, both directions.
 - GitHub pushes ingest into Falconer; Falconer edits write back via direct commit or PR.
 - Creating conflicts here too again
-- Lets test text only push now 
+- Lets test text only push now
 - Editing more, again. Trying
