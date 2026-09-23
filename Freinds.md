@@ -77,3 +77,5 @@ Comment icon alignment bug
 Creating new edits here as per the third bystander persona- B’s edits. Now B is also adding an image in the doc. Trying to create conflicts while there is a PC pending to be merged. Create new edits 
 
 ![](.falconer/assets/image-372a73bc3142ca2e0f1b83cf06f6f6d5df3199f04903ae2acd4d997183ca1a3c.png)
+
+creating new history snapshots to test new changes.
