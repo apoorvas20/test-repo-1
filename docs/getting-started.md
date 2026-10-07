@@ -4,7 +4,7 @@ Welcome to the QA space.
 
 ## Install
 
-Run the installer.
+Run the installer. QA 1.2 edit A2.
 
 ## Configure
 
