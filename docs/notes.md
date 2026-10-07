@@ -1,3 +1,3 @@
 # Notes
 
-Scratch notes.
+Scratch notes from GitHub.
