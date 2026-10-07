@@ -1,4 +1,4 @@
-# API reference
+# API reference (GitHub title)
 
 Endpoints are listed here. Falconer batch edit.
 
