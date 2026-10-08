@@ -3,4 +3,4 @@
 - 1.0 initial release
 - 1.1 QA edit for direct commit test (Falconer tail edit)
 
-![](../../images/qa-diagram.jpg)
+![](../../images/diagram.jpg)
