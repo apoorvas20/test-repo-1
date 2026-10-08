@@ -1,3 +1,3 @@
 # Folder doc one
 
-First doc in the folder delete check.
+First doc in the folder delete check, GitHub side.
