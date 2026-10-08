@@ -8,4 +8,4 @@ Run the installer. Falconer side edit.
 
 ## Configure
 
-Edit the config file. Falconer tail rerun. Moved and edited.
+Edit the config file. Falconer tail rerun. Moved and edited. Renamed and edited.
