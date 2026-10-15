@@ -2,4 +2,4 @@
 
 Second doc in the folder delete check.
 
-![logo](../../assets/logo.png)
+![logo](../../images/logo.png)
