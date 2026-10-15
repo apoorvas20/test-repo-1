@@ -1,5 +1,5 @@
 # Folder doc two
 
-Second doc in the folder delete check, edited on GitHub a fourth time.
+Second doc in the folder delete check, clean run six.
 
 ![logo](../../assets/logo.png)
