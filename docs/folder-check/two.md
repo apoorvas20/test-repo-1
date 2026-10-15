@@ -1,5 +1,5 @@
 # Folder doc two
 
-Second doc in the folder delete check.
+Second doc in the folder delete check, edited on GitHub.
 
-![logo](../../images/logo.png)
+![logo](../../assets/logo.png)
