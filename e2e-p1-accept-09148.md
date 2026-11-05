@@ -1,3 +1,0 @@
-# Someone else
-
-GITHUBTEXTA09148
