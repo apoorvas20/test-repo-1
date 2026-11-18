@@ -2,7 +2,7 @@
 
 *Friends* is an American sitcom that ran on NBC from September 22, 1994 to May 6, 2004. Across 10 seasons and 236 episodes, it followed six friends navigating work, love, and life in Manhattan. It became one of the most popular and influential TV shows ever made.
 
-its also my fav show.
+its also my fav show. GITHUB-EDIT-C.
 
 ## The premise
 
