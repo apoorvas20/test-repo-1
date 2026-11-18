@@ -2,6 +2,6 @@
 
 Throwaway file for reproducing the rename plus edit bug. Safe to remove.
 
-A second paragraph so the edit is a small change.
+A second paragraph, GITHUB-EDIT-A while disconnected.
 
 An edit made in the same commit as the rename.
