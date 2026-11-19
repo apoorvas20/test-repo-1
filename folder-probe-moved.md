@@ -1,3 +1,3 @@
 # Folder probe
 
-Throwaway file for checking that an emptied folder goes away. Safe to remove.
+Throwaway file for checking that an emptied folder goes away. Safe to remove. GITHUB-BULK-3
