@@ -1,0 +1,3 @@
+# Refunds
+
+Refunds go back to the original method, see [Saved payment methods](saved-methods.md).
